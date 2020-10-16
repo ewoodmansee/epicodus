@@ -1,21 +1,27 @@
 body {
-	background-color: #bae1d0
+	background-color: black;
 }
 
 h1 {
-	color: #bb8570;
+	color: #E7C793;
 	text-align: center;
 	font-family: courier, times, seraf;
 }
 
 h2 {
-	color: #573324;
+	color: #CEA768;
+	text-align: center;
+	font-family: courier, times, seraf;
+}
+
+.box h2 {
+	color: #994D24;
 	text-align: center;
 	font-family: courier, times, seraf;
 }
 
 p {
-	color: #4d806a;
+	color: #18654E;
 	font-family: courier, times, seraf;
 	font-size: 18px;
 }
@@ -32,18 +38,18 @@ p {
 
 .box {
 	margin: 12px;
-	border: 2px solid #f5c7b3;
+	border: 2px solid #FFE7C0;
 	padding: 3px;
 	background-color: #f9fffc;
 }
 
 ul {
 	list-style-type: circle;
-	color: #573324;
-	font-family: Candara, Helvetica, Sans-serif;
+	color: #994D24;
+	font-family: courier, times, seraf;
 	font-size: 16px;
 }
 
 a {
-	color: #4c7f6a;
+	color: #335076;
 }
