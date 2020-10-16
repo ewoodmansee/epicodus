@@ -35,3 +35,14 @@ p {
 	padding: 3px;
 	background-color: #f9fffc;
 }
+
+ul {
+	list-style-type: circle;
+	color: #573324;
+	font-family: Candara, Helvetica, Sans-serif;
+	font-size: 16px;
+}
+
+a {
+	color: #4c7f6a;
+  }
