@@ -15,3 +15,13 @@ p {
 	font-family: Candara, Helvetica, Sans-serif;
 	font-size: 20px;
 }
+
+.imageleft {
+	float: left;
+	padding: 20px;
+}
+
+.imagecenter {
+	float: center;
+	padding: 20px;
+}

@@ -1,0 +1,47 @@
+h1 {
+	color: #37336e;
+	text-align: center;
+	font-family: Candara, Helvetica, Arial, Sans-serif;
+}
+
+h2 {
+	color: #7b76b4;
+	text-align: center;
+	font-family: Candara, Helvetica, Arial, Sans-serif;
+}
+
+p {
+	color: #6b89a9;
+	font-family: Candara, Helvetica, Arial, Sans-serif;
+	font-size: 20px;
+}
+
+.leftfloat {
+	float: left;
+	padding: 20px;
+}
+
+.rightfloat {
+	float: right;
+	padding: 20px;
+}
+
+.box {
+	margin: 12px;
+	border: 2px solid #fff899;
+	padding: 3px;
+	background-color: #b5cae0;
+	box-align: center;
+}
+
+.imgcenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 325;
+}
+
+.sidebar {
+	width: 20%;
+	float: right;
+}
