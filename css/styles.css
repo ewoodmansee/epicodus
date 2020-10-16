@@ -13,15 +13,28 @@ h2 {
 p {
 	color: #15243d;
 	font-family: Candara, Helvetica, Sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 }
 
-.imageleft {
+.roundimageleft {
 	float: left;
-	padding: 20px;
+	padding: 10px;
+	border-radius: 50%;
+}
+
+.roundimagecenter {
+	padding: 10px;
+	border-radius: 50%;
 }
 
 .imagecenter {
 	float: center;
-	padding: 20px;
+	padding: 10px;
+}
+
+.bulletless {
+	list-style: none;
+	color: #15243d;
+	font-family: Candara, Helvetica, Sans-serif;
+	font-size: 16px;
 }
