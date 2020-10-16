@@ -21,7 +21,7 @@ p {
 }
 
 .leftfloat {
-  float: left;
+	float: left;
 }
 
 .sidebar {
@@ -45,4 +45,4 @@ ul {
 
 a {
 	color: #4c7f6a;
-  }
+}
