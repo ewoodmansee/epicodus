@@ -3,25 +3,25 @@ body {
 }
 
 h1 {
-	color: #e1eafb;
+	color: #A5B1C0;
 	text-align: center;
 	font-family: Candara, Helvetica, Sans-serif;
 }
 
 h2 {
-	color: #cdd9f0;
+	color: #8192A8;
 	text-align: center;
 	font-family: Candara, Helvetica, Sans-serif;
 }
 
 .container h2 {
-	color: #526079;
+	color: #2A765F;
 	text-align: center;
 	font-family: Candara, Helvetica, Sans-serif;
 }
 
 p {
-	color: #15243d;
+	color: #4A6587;
 	font-family: Candara, Helvetica, Sans-serif;
 	font-size: 18px;
 }
@@ -46,18 +46,24 @@ p {
 
 .bulletless {
 	list-style-type: circle;
-	color: #15243d;
+	color: #4A6587;
 	font-family: Candara, Helvetica, Sans-serif;
 	font-size: 16px;
 }
 
 .box {
 	margin: 12px;
-	border: 2px solid #4a6ba4;
+	border: 1px solid #5A518F;
 	padding: 3px;
-	background-color: #3b598b;
+	background-color: #40367B;
 }
 
-a {
-	color: #4a6ba4;
+a, a:active {
+	color: #2A765F;
+}
+a:visited {
+	color: #609988
+}
+a:hover{
+	color: #7EA99C
 }
